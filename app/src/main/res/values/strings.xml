@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="text_title_travel_expense">Gasto de viagem</string>
+    <string name="text_hint_distance">Distância</string>
+    <string name="text_hint_km_litro">Consumo do automóvel (Km/l)</string>
+    <string name="text_hint_gasoline_price">Preço da gasolina</string>
+    <string name="text_hint_alcohol_price">Preço do álcool</string>
+    <string name="text_button_calculate_expense">Calcular gasto</string>
+    <string name="text_spend_gasoline">Gasto com gasolina: R$</string>
+    <string name="text_spend_alcohol">Gasto com álcool: R$</string>
 </resources>
